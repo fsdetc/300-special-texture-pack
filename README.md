@@ -1,5 +1,23 @@
 # FSD ETC Purple Pack — 300 Subscriber Special
 
+## ⬇️ [DOWNLOAD v1.0 — FSD-ETC-Purple-Pack-1.20.1.zip (3.3 MB)](https://github.com/fsdetc/300-special-texture-pack/releases/download/v1.0/FSD-ETC-Purple-Pack-1.20.1.zip)
+
+All releases: https://github.com/fsdetc/300-special-texture-pack/releases
+
+## 📸 Screenshots
+
+![Custom purple main menu](screenshots/main-menu.png)
+*Custom purple main menu*
+
+![Dark purple inventory GUI](screenshots/inventory-gui.png)
+*Dark purple inventory / GUI*
+
+![Purple hearts and low fire overlay](screenshots/hearts-low-fire.png)
+*Purple hearts + low fire overlay*
+
+![Mini Mr FSD totem](screenshots/totem.png)
+*Mini Mr FSD totem*
+
 **The official purple PvP + FPS resource pack by Mr FSD (FSD ETC) for Minecraft Java Edition 1.20.1.**
 
 Built for one goal: a clean purple look that actually helps you play better — high FPS, clear PvP visibility, and zero distractions. Purple HUD hearts, static purple fire with a low fire overlay, short swords, dark purple GUIs, a custom main menu with FSD artwork, and a mini Mr FSD totem.
@@ -54,6 +72,7 @@ Manual paths (if you prefer): Windows — `%appdata%\.minecraft\resourcepacks` �
 - TikTok: https://www.tiktok.com/@fsdetc
 - Instagram: https://www.instagram.com/fsdetc
 - Twitch: https://www.twitch.tv/fsdetcofficial
+- X: https://x.com/fsdetc
 
 Found a bug or have a suggestion? Join the Discord server and open a ticket — feedback is welcome there.
 
